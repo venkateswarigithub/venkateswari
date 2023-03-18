@@ -1,0 +1,6 @@
+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
+
+git --version
+git config --global user.name ---
+git status
+git add filename
